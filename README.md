@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 I'm an entrepreneur and developer.
 
 - I'm currently working on [Operately](https://operately.com)
-- Co-founded [Semaphore](https://semaphoreci.com) and [Rendered Text](http://renderedtext.com)
+- Co-founded [Semaphore](https://semaphore.io) and previously [Rendered Text](http://renderedtext.com)
 - Love making products for builders
 - Find these books inspiring: Getting Real, The Nature of Order,  Steal Like an Artist
-- Reach me via Twitter or email marko at one of the company domains
+- Reach me via X/Twitter or email marko at one of the company domains
 
 ### 📚 Published Books
 
